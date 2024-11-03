@@ -1,0 +1,57 @@
+{
+  "product": [],
+  "products": [
+    {
+      "product_id": 1,
+      "product_name": "iphone 11",
+      "prodct_url": "iphone",
+      "description_id": 1,
+      "product_brief_description": "Fresh colors. Tougher glass and an IP68 water-resistance rating. A brand-new chip. Two camera lenses instead of the single lens on last year's iPhone XR, which means better photos. Night mode for low-light photo settings. Excellent battery life. Good price â€¦ for an iPhone.",
+      "product_description": "Remarkably similar to last year's packaging of aluminum and liquid crystals in the iPhone XR. LCD lacks the richness and color accuracy of an OLED display. 6.1-inch diagonal display is an awkward size for smaller hands. Apple is playing catch-up with the double-lens camera.",
+      "product_img": "https://media.wired.com/photos/5d803f5dc891950008ce3447/1:1/w_1600,h_1600,c_limit/iphone-11_6175-Edit.jpg",
+      "product_link": "https://www.apple.com/in/shop/buy-iphone/iphone-13",
+      "price_id": 1,
+      "starting_price": "10000",
+      "price_range": "20000"
+    },
+    {
+      "product_id": 2,
+      "product_name": "macbook-air-m3",
+      "prodct_url": "macbook",
+      "description_id": 2,
+      "product_brief_description": "MacBook Air sails through work and play â€” and the M3 chip brings even greater capabilities to the worldâ€™s most popular laptop. With up to 18 hours of battery life,1 you can take the superportable MacBook Air anywhere and blaze through whatever youâ€™re into. And itâ€™s built for Apple Intelligence, coming in beta this fall.2",
+      "product_description": "MacBook Air fits easily into your life and is built with the planet in mind. MacBook Air with M3 is made with 50 percent recycled materials â€” an Apple first. And all MacBook Air laptops have a durable recycled aluminum enclosure.",
+      "product_img": "https://www.apple.com/v/home/bq/images/promos/macbook-air-m3/promo_macbook_air_m3__e43jegok3wuq_small.jpg",
+      "product_link": "https://www.apple.com/macbook-air/",
+      "price_id": 2,
+      "starting_price": "$1099",
+      "price_range": "$1091.58"
+    },
+    {
+      "product_id": 3,
+      "product_name": "iphone 15 pro",
+      "prodct_url": "iphone 15",
+      "description_id": 3,
+      "product_brief_description": "iPhone 15 Pro is the first iPhone to feature an aerospaceâ€‘grade titanium design, using the same alloy that spacecraft use for missions to Mars.",
+      "product_description": "Titanium has one of the best strengthâ€‘toâ€‘weight ratios of any metal, making these our lightest Pro models ever. Youâ€™ll notice the difference the moment you pick one up.",
+      "product_img": "https://www.apple.com/v/iphone-15-pro/c/images/overview/welcome/hero_endframe__ov6ewwmbhiqq_small.jpg",
+      "product_link": "https://www.apple.com/us-edu/shop/buy-iphone/iphone-15-pro",
+      "price_id": 3,
+      "starting_price": "$999",
+      "price_range": "$41.62/mo.per month for 24 mo.monthsFootnote*"
+    },
+    {
+      "product_id": 4,
+      "product_name": "iphone 13 pro max",
+      "prodct_url": "iphone 13",
+      "description_id": 4,
+      "product_brief_description": "Apple unveils iPhone 13 Pro and iPhone 13 Pro Max â€” more pro than ever before",
+      "product_description": "The most advanced pro camera system ever on iPhone; Super Retina XDR display with ProMotion; a massive leap in battery life; A15 Bionic, the fastest chip in a smartphone; an advanced 5G experience; and so much more",
+      "product_img": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_New-Camera-System_09142021_Full-Bleed-Image.jpg.slideshow-xlarge_2x.jpg",
+      "product_link": "https://www.apple.com/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/",
+      "price_id": 4,
+      "starting_price": "$1,099",
+      "price_range": "\t$36.66/mo"
+    }
+  ]
+}

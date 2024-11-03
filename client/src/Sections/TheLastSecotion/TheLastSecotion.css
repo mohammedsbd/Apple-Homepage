@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Latest-container{
+
+    margin: auto;
+}
+.latestVideos{
+    text-align: center;
+}
+.All-videos{
+    padding: 10px;
+}
+.All-videos a{
+    text-decoration: none;
+    color: black;
+}
+.vid-title p{
+    font-size: .3;
+    font-weight: 600;
+        margin: 0;
+}
+.disc p{
+    font-size: 12px;
+    color: gray;
+    margin: 0;
+}
